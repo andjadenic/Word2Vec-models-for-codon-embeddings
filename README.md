@@ -23,7 +23,7 @@ Therefore, we will empirically analyze the quality of 3-mer (codon) embeddings o
 ### Evaluation
 We evaluate the results by analyzing the vector representation of the codons.
 * There are 64 codons which are grouped into 21 categories according to the amino acids they encode [ref](https://pubmed.ncbi.nlm.nih.gov/38137022/) as we can see in the codon table below.
-![codon table](https://en.wikipedia.org/wiki/DNA_and_RNA_codon_tables#/media/File:Aminoacids_table.svg)
+![codon table]([https://en.wikipedia.org/wiki/DNA_and_RNA_codon_tables#/media/File:Aminoacids_table.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr4_2GSC7Pnt3tnn9ZZI880uQhpJO2o-BiJQ&s))
 * For each codon, we define recall as the ratio between the number of codons from the same group found among its top 6 closest neighbors, determined by **cosine vector distance**, and the total number of codons in the group.
 * The table in the [abstract](https://github.com/andjadenic/Word2Vec-models-for-codon-embeddings/blob/main/Conference%20Abstract%20EXPLORING%20WORD2VEC%20MODELS%20FOR%20CAPTURING%20THE%20SIMILARITY%20OF%20CODON%20EMBEDDINGS.pdf) presents the average recall across codons.
 
