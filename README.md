@@ -1,6 +1,11 @@
 # Exploring Word2Vec Models for Capturing the Similarity of Codon Embeddings
 
-This repository includes [abstract](https://github.com/andjadenic/Word2Vec-models-for-codon-embeddings/blob/main/Conference%20Abstract%20EXPLORING%20WORD2VEC%20MODELS%20FOR%20CAPTURING%20THE%20SIMILARITY%20OF%20CODON%20EMBEDDINGS.pdf), [presentation](https://github.com/andjadenic/Word2Vec-models-for-codon-embeddings/blob/main/Conference%20Presentation%20Exploring%20WORD2VEC%20models%20for%20Capturing%20the%20Similarity%20of%20Codon%20Embeddings.pdf) and Python code for [3rd Serbian International Conference on Applied Artificial Intelligence (SICAAI)](http://aai2024.kg.ac.rs/) held in Kragujevac, Serbia on May, 2024, where I participated and got awarded for the best student work.
+This repository includes:
+* video recording of conference talk
+* [abstract](https://github.com/andjadenic/Word2Vec-models-for-codon-embeddings/blob/main/Conference%20Abstract%20EXPLORING%20WORD2VEC%20MODELS%20FOR%20CAPTURING%20THE%20SIMILARITY%20OF%20CODON%20EMBEDDINGS.pdf)
+* [presentation](https://github.com/andjadenic/Word2Vec-models-for-codon-embeddings/blob/main/Conference%20Presentation%20Exploring%20WORD2VEC%20models%20for%20Capturing%20the%20Similarity%20of%20Codon%20Embeddings.pdf)
+* Python code
+of my bioinformatics work presented at [SICAAI Conference](http://aai2024.kg.ac.rs/) held in Kragujevac, Serbia in May 2024.
 
 ### Video recording of conference talk
 
